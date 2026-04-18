@@ -4,10 +4,14 @@ This repository contains the code and trained models for breast cancer classific
 
 ## 🚀 How to Run the Code
 
-### 1. Clone the repository
+### 1. Clone the repository (Local)
 ```bash
 git clone https://github.com/your-username/Breast-Cancer-Deep-Learning.git
 cd Breast-Cancer-Deep-Learning
 ```
 
-### 2. 
+### 2. Download the pth and CSV files for both models
+
+### 3. Open the Inference Ready notebook with your Google Colab
+
+### 4. Just upload those files (.pth, .CSV, and your own Kaggle.json) and run all of the cell. 
