@@ -1,6 +1,6 @@
 # COMPARISON OF MOBILENETV2 AND EFFICIENTNET-B0 ARCHITECTURES FOR BREAST CANCER CLASSIFICATION
 
-This repository contains the code and trained models for breast cancer classification using mammography images from the CBIS-DDSM dataset. Two architectures are implemented: **MobileNetV2** and **EfficientNet-B0**.
+This repository contains the code and trained models for breast cancer classification using mammography images from the CBIS-DDSM dataset. Two architectures are implemented: **MobileNetV2** and **EfficientNet-B0**. The Jupyter Notebook was created with Google Colab, so for optimal running, please use Colab.
 
 ## 🚀 How to Run the Code
 
